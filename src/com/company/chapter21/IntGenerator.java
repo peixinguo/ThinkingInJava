@@ -1,4 +1,4 @@
-package com.company.chapter21.c31;
+package com.company.chapter21;
 
 public abstract class IntGenerator {
     private volatile boolean canceled = false;

@@ -1,4 +1,4 @@
-package com.company.chapter21.c31;
+package com.company.chapter21;
 
 public class EventGenerator extends IntGenerator{
     private int currentEvenValue = 0;
